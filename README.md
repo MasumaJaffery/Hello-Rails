@@ -5,7 +5,7 @@ In WSL (Run as adminstater):
 gem install rails -v 7.0.6
 rails -v
 for rails app creation;
-rails new hello-rails -d postgresql OR rails .
+rails new hello-rails -d postgresql OR rails new .
 ## POSTGRESQL
 In WSL (Run as adminstater):
 sudo apt install postgresql libpq-dev
