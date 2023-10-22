@@ -1,3 +1,5 @@
+## Download RAILS
+https://gorails.com/setup/windows/11
 ## RAILS
 In WSL (Run as adminstater):
 gem install rails -v 7.0.6
